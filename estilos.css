@@ -1,0 +1,44 @@
+.navbar{
+    justify-content: end;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    color:rgb(0, 0, 0);
+    
+}
+
+.parrafo{
+    display: flex; 
+    text-align: center;
+    color: rgb(0, 0, 0); 
+    
+}
+
+.main{
+   background-image: url("https://img.freepik.com/foto-gratis/vista-frontal-copa-vino-botella-sobre-fondo-claro-alcohol-bebida-limonada-jugo-vacaciones-bar-cena_140725-160621.jpg?w=2000");
+    background-position: center;
+    background-repeat: repeat-x;
+    background-size: cover;
+    height: max-content;
+    
+}
+
+.card{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.cards-index{
+    display: flex;
+}
+
+.catalogo{
+    background-color: black;
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
